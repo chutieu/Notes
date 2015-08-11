@@ -1,4 +1,4 @@
-##### 1. How to use emoji in Rails.
+##### How to use emoji in Rails.
 ```
 default: &default
   adapter: mysql2
